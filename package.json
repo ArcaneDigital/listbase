@@ -1,6 +1,6 @@
 {
   "name": "listbase",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Non relational micro database for lists and queues",
   "main": "index.js",
   "repository": {
