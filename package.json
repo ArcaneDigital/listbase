@@ -11,5 +11,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Jay Goodfellow <j.goodfellow@arcane.ws>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "3.5.2"
+  }
 }
